@@ -1,0 +1,90 @@
+2021-03-16 20:58:21 INFO  - [hello, there, 10]
+2021-03-16 20:58:21 INFO  - [200, 45, 1000]
+2021-03-16 20:58:21 INFO  - Vehicle{make='honda', model='accord', price=1000, fourDrive=false}
+2021-03-16 20:58:21 INFO  - Vehicle{make='toyota', model='camry', price=1100, fourDrive=false}
+2021-03-16 20:58:21 INFO  - [Random, Animal, People]
+2021-03-16 20:58:21 INFO  - [Random, Zoo, People, Car]
+2021-03-16 20:58:21 INFO  - [Animal{name='Dog', age=12}, Animal{name='Bird', age=3}, Animal{name='Cat', age=8}]
+2021-03-16 20:58:21 INFO  - [Employee{name='Peter', salary=3000, department='hr'}, Employee{name='Mike', salary=3500, department='accounting'}, Employee{name='Mark', salary=3700, department='admin'}]
+2021-03-16 20:58:21 INFO  - [brilliant, joy, brave]
+2021-03-16 20:58:21 INFO  - brilliant
+2021-03-16 20:58:21 INFO  - joy
+2021-03-16 20:58:21 INFO  - brave
+2021-03-16 20:58:21 INFO  - number 0 thread - first thread
+2021-03-16 20:58:21 INFO  - number 0 thread - second thread
+2021-03-16 20:58:21 INFO  - Thread-3 value of sequence 1
+2021-03-16 20:58:21 INFO  - Thread-2 value of sequence 2
+2021-03-16 20:58:21 INFO  - number 1 thread - first thread
+2021-03-16 20:58:21 INFO  - number 1 thread - second thread
+2021-03-16 20:58:21 INFO  - number 2 thread - first thread
+2021-03-16 20:58:21 INFO  - number 2 thread - second thread
+2021-03-16 20:58:21 INFO  - number 3 thread - first thread
+2021-03-16 20:58:21 INFO  - number 3 thread - second thread
+2021-03-16 20:58:21 INFO  - number 4 thread - first thread
+2021-03-16 20:58:21 INFO  - number 4 thread - second thread
+2021-03-16 20:58:21 INFO  - Thread-2 value of sequence 3
+2021-03-16 20:58:21 INFO  - Thread-3 value of sequence 4
+2021-03-16 20:58:21 INFO  - number 5 thread - first thread
+2021-03-16 20:58:21 INFO  - number 5 thread - second thread
+2021-03-16 20:58:21 INFO  - number 6 thread - first thread
+2021-03-16 20:58:21 INFO  - number 6 thread - second thread
+2021-03-16 20:58:21 INFO  - number 7 thread - first thread
+2021-03-16 20:58:21 INFO  - number 7 thread - second thread
+2021-03-16 20:58:21 INFO  - number 8 thread - first thread
+2021-03-16 20:58:21 INFO  - number 8 thread - second thread
+2021-03-16 20:58:21 INFO  - number 9 thread - first thread
+2021-03-16 20:58:21 INFO  - Thread-2 value of sequence 6
+2021-03-16 20:58:21 INFO  - Thread-3 value of sequence 5
+2021-03-16 20:58:21 INFO  - number 9 thread - second thread
+2021-03-16 20:58:21 INFO  - Thread-3 value of sequence 7
+2021-03-16 20:58:21 INFO  - Thread-2 value of sequence 8
+2021-03-16 20:58:21 INFO  - Thread-3 value of sequence 9
+2021-03-16 20:58:21 INFO  - Thread-2 value of sequence 10
+2021-03-16 20:58:21 INFO  - Thread-2 value of sequence 11
+2021-03-16 20:58:21 INFO  - Thread-3 value of sequence 12
+2021-03-16 20:58:21 INFO  - Thread-3 value of sequence 13
+2021-03-16 20:58:21 INFO  - Thread-2 value of sequence 14
+2021-03-16 20:58:21 INFO  - Thread-3 value of sequence 16
+2021-03-16 20:58:21 INFO  - Thread-2 value of sequence 15
+2021-03-16 20:58:21 INFO  - Thread-2 value of sequence 17
+2021-03-16 20:58:21 INFO  - Thread-3 value of sequence 18
+2021-03-16 20:58:21 INFO  - Thread-3 value of sequence 19
+2021-03-16 20:58:21 INFO  - Thread-2 value of sequence 20
+2021-03-16 20:58:24 INFO  - product added id = 0
+2021-03-16 20:58:24 INFO  - product added id = 1
+2021-03-16 20:58:24 INFO  - product added id = 2
+2021-03-16 20:58:24 INFO  - product added id = 3
+2021-03-16 20:58:24 INFO  - product added id = 4
+2021-03-16 20:58:24 INFO  - product added id = 5
+2021-03-16 20:58:24 INFO  - product added id = 6
+2021-03-16 20:58:24 INFO  - product added id = 7
+2021-03-16 20:58:24 INFO  - product added id = 8
+2021-03-16 20:58:24 INFO  - product added id = 9
+2021-03-16 20:58:26 INFO  - question: 0
+2021-03-16 20:58:26 INFO  - Thread pool-1-thread-1 received a message
+2021-03-16 20:58:26 INFO  - printing the sold Product{id=0, name='product - 0'}
+2021-03-16 20:58:26 INFO  - Thread pool-1-thread-2 received a message
+2021-03-16 20:58:26 INFO  - printing the sold Product{id=1, name='product - 1'}
+2021-03-16 20:58:26 INFO  - car Car{company='toyota', model='camry', price=1500}
+2021-03-16 20:58:26 INFO  - car Car{company='mitsubishi', model='lancer', price=1150}
+2021-03-16 20:58:26 INFO  - car Car{company='jeep', model='wrangler', price=1700}
+2021-03-16 20:58:26 INFO  - printing the sold Product{id=2, name='product - 2'}
+2021-03-16 20:58:26 INFO  - printing the sold Product{id=3, name='product - 3'}
+2021-03-16 20:58:26 INFO  - printing the sold Product{id=4, name='product - 4'}
+2021-03-16 20:58:26 INFO  - printing the sold Product{id=5, name='product - 5'}
+2021-03-16 20:58:26 INFO  - printing the sold Product{id=6, name='product - 6'}
+2021-03-16 20:58:26 INFO  - printing the sold Product{id=7, name='product - 7'}
+2021-03-16 20:58:26 INFO  - question: 1
+2021-03-16 20:58:26 INFO  - printing the sold Product{id=8, name='product - 8'}
+2021-03-16 20:58:26 INFO  - printing the sold Product{id=9, name='product - 9'}
+2021-03-16 20:58:26 INFO  - question: 2
+2021-03-16 20:58:26 INFO  - question: 3
+2021-03-16 20:58:29 INFO  - Processing message pool-1-thread-1 , message 2
+2021-03-16 20:58:29 INFO  - Thread pool-1-thread-1 received a message
+2021-03-16 20:58:29 INFO  - Processing message pool-1-thread-2 , message 3
+2021-03-16 20:58:31 INFO  - answered question: 0
+2021-03-16 20:58:32 INFO  - Processing message pool-1-thread-1 , message 4
+2021-03-16 20:58:36 INFO  - answered question: 1
+2021-03-16 20:58:41 INFO  - answered question: 2
+2021-03-16 20:58:46 INFO  - answered question: 3
+2021-03-16 20:58:46 INFO  - no questions to answer
